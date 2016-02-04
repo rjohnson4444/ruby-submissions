@@ -13,13 +13,13 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[Repo](https://github.com/rjohnson4444/idea-box)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[Application](https://idea-box-ryan-johnson.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[Commits](https://github.com/rjohnson4444/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
 ![spacejam](images/spacejam.jpg)
@@ -29,7 +29,11 @@
 ### Were you able to complete the base functionality?
 #### If not, list what functionality is missing.
 
+* Yes I was able to complete all base functionality.
+
 ### Which extensions, if any, did you complete?
+
+* I completed the inline idea editing extension.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
