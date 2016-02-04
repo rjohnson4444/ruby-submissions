@@ -13,23 +13,27 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[Repo](https://github.com/rjohnson4444/idea-box)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[Application](https://idea-box-ryan-johnson.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[Commits](https://github.com/rjohnson4444/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
-![spacejam](images/spacejam.jpg)
+[IdeaBox 2.0](http://g.recordit.co/pn9ef77yIB.gif)
 
 ## Completion
 
 ### Were you able to complete the base functionality?
 #### If not, list what functionality is missing.
 
+* Yes I was able to complete all base functionality.
+
 ### Which extensions, if any, did you complete?
+
+* I completed the inline idea editing extension.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
@@ -37,13 +41,21 @@
 
 ### Link to a specific block of your code on Github that you are proud of
 #### Why were you proud of this piece of code?
+[Code](https://github.com/rjohnson4444/idea-box/blob/master/app/assets/javascripts/home.js#L108-L133)
 
 ### Link to a specific block of your code on Github that you feel not great about
+[Not So Good..](https://github.com/rjohnson4444/idea-box/blob/master/app/assets/javascripts/home.js#L161-L205)
+
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
+* I'm not too proud of it because of the repeating code. Finding a way to refactor this code would make it a lot more DRY.
+
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+[Test Suite](http://g.recordit.co/IhLfAFtlhC.gif)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
+* I don't have any. I did not implement integration tests.
 
 -----
 
