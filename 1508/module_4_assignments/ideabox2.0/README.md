@@ -37,6 +37,8 @@
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
+* See Above gif
+
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
